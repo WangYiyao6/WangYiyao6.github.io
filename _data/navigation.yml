@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Home"
-    url: /publications/
+    url: /Home/
 
   - title: "News"
-    url: /talks/    
+    url: /News/    
 
   - title: "Research"
-    url: /teaching/    
+    url: /Research/    
     
   - title: "Team"
-    url: /portfolio/
+    url: /Team/
         
   - title: "Publications"
-    url: /year-archive/
+    url: /Publications/
     
   - title: "Positions"
-    url: /cv/
+    url: /Positions/
     
   - title: "Contanct"
-    url: /markdown/
+    url: /Contanct/
