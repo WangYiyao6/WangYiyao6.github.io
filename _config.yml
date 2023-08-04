@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GeoAl team site"
+title                    : "GeoAl Team Site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
